@@ -1,12 +1,33 @@
-### Olá!!! 👋
+<h1> Olá!!!, Sou o  <a href="https://github.com/fredybraun">Fredy</a></h1>
+</h1>
 
-<!--
-**fredybraun/fredybraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📬 Você pode me encontrar em: 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/fredybraun/)](https://github.com/fredybraun/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/fredybraun/)](https://www.linkedin.com/fredybraun)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fredy.braun@gmail.com)](mailto:fredy.braun@gmail.com)
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working at home
-- 🌱 I’m currently learning HTML, CSS, Javascript, SQL, NODE and REACT
-- 💬 Ask me about ...
-- 📫 How to reach me: @fredybraun
+
+
+### Sobre mim...  <br/>
+Estou estudando e me atualizando como DEV depois de muitos anos de minha graduação.
+Nunca trabalhei na area e estou me atualizando para isto.
+<br/><br/>
+
+
+
+
+## ⚡️ Fatos
+
+- 🔭 Atualmente trabalho com funilaria predial
+- 🌱 Estou me atualizando em HTML, CSS e JAVASCRIPT, e adquirindo novos conhecimentos em NODE e REACT
+- 🤔 Procuro ajuda nas tecnologias listadas acima
+
+  
+
+
+
+
+
+
+
 
