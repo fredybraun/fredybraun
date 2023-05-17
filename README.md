@@ -19,7 +19,7 @@ Nunca trabalhei na area e estou me atualizando para isto.
 ## ⚡️ Fatos
 
 - 🔭 Atualmente trabalho com funilaria predial
-- 🌱 Estou me atualizando em HTML, CSS e JAVASCRIPT, e adquirindo novos conhecimentos em NODE e REACT
+- 🌱 Estou me atualizando em HTML, CSS e JAVASCRIPT, e adquirindo novos conhecimentos em frameworks mais utilizados do mercado.
 - 🤔 Procuro ajuda nas tecnologias listadas acima
 
   
